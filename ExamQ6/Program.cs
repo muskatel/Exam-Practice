@@ -1,4 +1,4 @@
-﻿namespace ExamPractice;
+﻿namespace ExamQ6;
 
 class Program
 {
