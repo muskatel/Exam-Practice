@@ -1,4 +1,4 @@
-# Exam Submission fro Craig Marais
+# Exam Submission for Craig Marais
 
 This is all my own work. No AI.
 
@@ -10,3 +10,4 @@ This is all my own work. No AI.
 ## Question 4:
 ## Question 5:
 ## Question 6:
+renamed csv file to Products.csv
