@@ -42,6 +42,11 @@ class Program
 
     static int FindMax(int[] arr)
     {
+        if (arr == null || arr.Length == 0)
+        {
+            return 0;
+        }
+        
         int max = arr[0];
         int i = 0;
         
